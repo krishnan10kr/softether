@@ -1,5 +1,5 @@
 CLIENT_DIR="/root/vpnclient"
 NIC_NAME="nic1"
 ACCOUNT_NAME="Newvpn"
-VPN_HOST_IPv4="65.60.43.240"
-LOCAL_GATEWAY="192.168.0.1"
+VPN_HOST_IPv4="vpn ip"
+LOCAL_GATEWAY="gateway ip of local machine"
